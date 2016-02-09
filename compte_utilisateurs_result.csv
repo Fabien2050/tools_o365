@@ -1,0 +1,5 @@
+FirstName;LastName;UserPrincipalName;DisplayName;NewPassword;LicenseAssignement;UsageLocation;
+Prenom1;NOM1;prenom1.nom1@acensi.fr;Prenom1 NOM1;Pr3n0m1;acensi:ENTREPRISEPACK;FR;Set-MsolUserPassword -UserPrincipalName prenom1.nom1@acensi.fr -ForceChangePassword $false -NewPassword Pr3n0m1
+Prenom2;NOM2;prenom2.nom2@acensi.fr;Prenom2 NOM2;Pr3n0m2;acensi:ENTREPRISEPACK;FR;Set-MsolUserPassword -UserPrincipalName prenom2.nom2@acensi.fr -ForceChangePassword $false -NewPassword Pr3n0m2
+Prenom3;NOM3;prenom3.nom3@acensi.fr;Prenom3 NOM3;Pr3n0m3;acensi:ENTREPRISEPACK;FR;Set-MsolUserPassword -UserPrincipalName prenom3.nom3@acensi.fr -ForceChangePassword $false -NewPassword Pr3n0m3
+Prenom4;NOM4;prenom4.nom4@acensi.fr;Prenom4 NOM4;Pr3n0m4;acensi:ENTREPRISEPACK;FR;Set-MsolUserPassword -UserPrincipalName prenom4.nom4@acensi.fr -ForceChangePassword $false -NewPassword Pr3n0m4
